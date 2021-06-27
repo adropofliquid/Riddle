@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Riddle399</string>
+    <string name="welcome">Welcome</string>
+    <string name="start">START</string>
+    <string name="categories">CATEGORIES</string>
+    <string name="get_more">GET MORE</string>
+    <string name="show_answer">Show Answer</string>
+    <string name="next">Next</string>
+    <string name="answer">Answer:</string>
+    <string name="time_riddles">Time Riddles</string>
+    <string name="continues">CONTINUE</string>
+    <string name="i_understand">I understand</string>
+    <string name="loading_riddles_from_the_internet">Loading riddles from the internet please be patient</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+</resources>
